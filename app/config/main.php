@@ -8,6 +8,6 @@
     // App Root
     define('APPROOT', dirname(dirname(__FILE__)));
     // URL Root
-    define('URLROOT', 'http://localhost/checkout');
+    define('URLROOT', 'http://localhost/checkout_assessment');
     //App Name
     define('APPNAME', 'Check Out');
